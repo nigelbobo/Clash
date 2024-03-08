@@ -1,5 +1,6 @@
-# 内容：Disney+
-#
+# Name：Disney+
+# Author: nigelbobo
+# Updated: 9-Mar-2024 05:05:05
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN,disney.api.edge.bamgrid.com
 DOMAIN,disney.connections.edge.bamgrid.com
