@@ -1,6 +1,7 @@
-# Name：Disney+
-# Author: nigelbobo
-# Updated: 9-Mar-2024 05:05:05
+# Disney+ List
+# Author: nigelc
+# Updated: 15-Mar-2025 05:05:05
+
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN,disney.api.edge.bamgrid.com
 DOMAIN,disney.connections.edge.bamgrid.com
