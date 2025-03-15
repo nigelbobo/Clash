@@ -2,6 +2,7 @@
 # Author: nigelc
 # Update: 15-Mar-2025
 
+DOMAIN,tvb-mytvsuper.servicebus.windows.net
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
 DOMAIN,tvbtracking.azurewebsites.net
