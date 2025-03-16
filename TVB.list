@@ -2,10 +2,12 @@
 # Author: nigelc
 # Update: 16-Mar-2025
 
-
+# MyTVsuper Box
+DOMAIN,firestore.googleapis.com
 DOMAIN,sniper.redsoapp.com
 DOMAIN,pubads.g.doubleclick.net
 DOMAIN,tvb-mytvsuper.servicebus.windows.net
+# TVB URL
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
 DOMAIN,tvbtracking.azurewebsites.net
