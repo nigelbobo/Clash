@@ -29,6 +29,8 @@ DOMAIN-SUFFIX,tvbweekly.com
 DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,youboranqs01.com
+DOMAIN-SUFFIX,*.miui.com
 DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,tracking.miui.com
 USER-AGENT,encoreTVB*
 USER-AGENT,mytv*
