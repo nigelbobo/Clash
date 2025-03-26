@@ -3,10 +3,14 @@
 # Update: 26-Mar-2025
 
 # Honor of King International
+DOMAIN-SUFFIX,hok-dr.intlgame.com
+DOMAIN-SUFFIX,hok.intlgame.com
 DOMAIN-SUFFIX,intlgame.com
-DOMAIN-SUFFIX,download.sgameglobal.com
 DOMAIN-SUFFIX,sgameglobal.com
-
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-KEYWORD,sgameglobal.com
+IP-CIDR, 183.192.65.101/16, no-resolve
+IP-CIDR, 43.132.55.55/16, no-resolve
 
 # Sony Game
 DOMAIN,sonyliveevents-nonssai.akamaized.net
