@@ -2,15 +2,14 @@
 # Author: nigelc
 # Update: 28-Mar-2025
 
-# 3HK
-DOMAIN,www.three.com.hk
+# ThreeHK
 DOMAIN-SUFFIX,three.com.hk
-# MyTVsuper Box
+# MyTVsuper
 DOMAIN,firestore.googleapis.com
 DOMAIN,sniper.redsoapp.com
 DOMAIN,pubads.g.doubleclick.net
 DOMAIN,tvb-mytvsuper.servicebus.windows.net
-# TVB URL
+# TVB
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
 DOMAIN,tvbtracking.azurewebsites.net
