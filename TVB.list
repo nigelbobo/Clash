@@ -2,7 +2,7 @@
 # Author: nigelc
 # Update: 28-Mar-2025
 
-# ThreeHK
+DOMAIN,three,com.hk
 DOMAIN-SUFFIX,three.com.hk
 # MyTVsuper
 DOMAIN,firestore.googleapis.com
