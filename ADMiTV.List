@@ -1,7 +1,8 @@
 # Name: ADMiTV
 # Author: nigelc
-# Update: 23-Mar-2025
+# Update: 1-Apr-2025
 
+DOMAIN-SUFFIX,ads.cdn.tvb.com
 DOMAIN,519332da.rtc.youme.im
 DOMAIN,86file.megajoy.com
 DOMAIN,86get.joy.cn
