@@ -1,13 +1,14 @@
 # TVB List
 # Author: nigelc
-# Update: 28-Mar-2025
+# Update: 8-Apr-2025
 
-DOMAIN,three,com.hk
-DOMAIN-SUFFIX,three.com.hk
 # MyTVsuper
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN,firestore.googleapis.com
 DOMAIN,sniper.redsoapp.com
 DOMAIN,pubads.g.doubleclick.net
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,clients3.google.com
 DOMAIN,tvb-mytvsuper.servicebus.windows.net
 # TVB
 DOMAIN,bcbolt446c5271-a.akamaihd.net
@@ -33,3 +34,5 @@ DOMAIN-SUFFIX,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,youboranqs01.com
 USER-AGENT,encoreTVB*
 USER-AGENT,mytv*
+DOMAIN,three,com.hk
+DOMAIN-SUFFIX,three.com.hk
