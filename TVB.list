@@ -3,11 +3,13 @@
 # Update: 8-Apr-2025
 
 # MyTVsuper
+DOMAIN-SUFFIX,leadstecgz.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN,firestore.googleapis.com
 DOMAIN,sniper.redsoapp.com
 DOMAIN,pubads.g.doubleclick.net
 DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,clients1.google.com
 DOMAIN,clients3.google.com
 DOMAIN,tvb-mytvsuper.servicebus.windows.net
 # TVB
