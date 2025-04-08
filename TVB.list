@@ -1,6 +1,6 @@
 # TVB List
 # Author: nigelc
-# Update: 8-Apr-2025
+# Update: 9-Apr-2025
 
 # MyTVsuper
 DOMAIN-SUFFIX,leadstecgz.com
@@ -12,6 +12,8 @@ DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,clients1.google.com
 DOMAIN,clients3.google.com
 DOMAIN,tvb-mytvsuper.servicebus.windows.net
+DOMAIN,whatismyip.akamai.com
+
 # TVB
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
