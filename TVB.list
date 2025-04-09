@@ -14,7 +14,7 @@ DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,clients1.google.com
 DOMAIN,clients3.google.com
 DOMAIN,tvb-mytvsuper.servicebus.windows.net
-DOMAIN,whatismyip.akamai.com
+DOMAIN-SUFFIX,whatismyip.akamai.com
 
 # TVB
 DOMAIN,bcbolt446c5271-a.akamaihd.net
