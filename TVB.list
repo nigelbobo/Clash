@@ -1,8 +1,8 @@
 # TVB List
 # Author: nigelc
 # Update: 9-Apr-2025
-
-# MyTVsuper
+# MyTVsuper/TVB
+DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,leadstecgz.com
 DOMAIN-SUFFIX,googleapis.com
@@ -16,8 +16,6 @@ DOMAIN,clients1.google.com
 DOMAIN,clients3.google.com
 DOMAIN,tvb-mytvsuper.servicebus.windows.net
 DOMAIN-SUFFIX,whatismyip.akamai.com
-
-# TVB
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
 DOMAIN,tvbtracking.azurewebsites.net
