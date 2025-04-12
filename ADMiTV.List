@@ -1,10 +1,11 @@
 # Name: ADMiTV
 # Author: nigelc
-# Update: 1-Apr-2025
+# Update: 13-Apr-2025
 
 DOMAIN-SUFFIX,ads.cdn.tvb.com
 DOMAIN-SUFFIX,xiaomi.net
-159.75.160.112
+#159.75.160.112
+IP-CIDR,159.75.160.0/24,no-resolve
 DOMAIN,519332da.rtc.youme.im
 DOMAIN,86file.megajoy.com
 DOMAIN,86get.joy.cn
