@@ -3,5 +3,5 @@
 # Update: 13-Apr-2025
 # Personal Usage Only
 
-IP-CIDR,192.8.8.6/32,no-resolve
-IP-CIDR,192.8.8.7/32,no-resolve
+SRC-IP-CIDR,192.8.8.6/32,no-resolve
+SRC-IP-CIDR,192.8.8.7/32,no-resolve
