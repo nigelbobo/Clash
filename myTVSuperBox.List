@@ -3,7 +3,7 @@
 # Update: 13-Apr-2025
 # Personal Usage Only
 
-SOURCE-IP,192.8.8.6/32,no-resolve
-SOURCE-IP,192.8.8.7/32,no-resolve
+#SOURCE-IP,192.8.8.6/32,no-resolve
+#SOURCE-IP,192.8.8.7/32,no-resolve
 SRC-IP-CIDR,192.8.8.6/32,no-resolve
 SRC-IP-CIDR,192.8.8.7/32,no-resolve
