@@ -1,7 +1,8 @@
 # TVB List
 # Author: nigelc
-# Update: 9-Apr-2025
-# MyTVsuper/TVB
+# Update: 23-Apr-2025
+# MyTV Super/TVB List
+
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,adobedtm.com
@@ -10,6 +11,7 @@ DOMAIN-SUFFIX,leadstecgz.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,stdtime.gov.hk
+DOMAIN,securepubads.g.doubleclick.net
 DOMAIN,firestore.googleapis.com
 DOMAIN,sniper.redsoapp.com
 DOMAIN,pubads.g.doubleclick.net
