@@ -3,6 +3,12 @@
 # Update: 23-Apr-2025
 # MyTV Super/TVB List
 
+DOMAIN-SUFFIX,aralego.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,playstream.media
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,bidsxplayer.com
+DOMAIN-SUFFIX,aniview.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,adobedtm.com
@@ -11,10 +17,8 @@ DOMAIN-SUFFIX,leadstecgz.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,stdtime.gov.hk
-DOMAIN,securepubads.g.doubleclick.net
 DOMAIN,firestore.googleapis.com
 DOMAIN,sniper.redsoapp.com
-DOMAIN,pubads.g.doubleclick.net
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,clients1.google.com
 DOMAIN,clients3.google.com
