@@ -1,8 +1,9 @@
 # TVB List
 # Author: nigelc
-# Update: 23-Apr-2025
+# Update: 24-Apr-2025
 # MyTV Super/TVB List
 
+DOMAIN-SUFFIX,eservice.emarsys.net
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,aralego.com
 DOMAIN-SUFFIX,doubleclick.net
