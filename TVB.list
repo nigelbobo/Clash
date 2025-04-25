@@ -1,6 +1,6 @@
 # TVB List
 # Author: nigelc
-# Update: 24-Apr-2025
+# Update: 26-Apr-2025
 # MyTV Super/TVB List
 
 DOMAIN-SUFFIX,newsochub.com
@@ -50,5 +50,14 @@ DOMAIN-SUFFIX,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,youboranqs01.com
 USER-AGENT,encoreTVB*
 USER-AGENT,mytv*
+
 DOMAIN,three,com.hk
 DOMAIN-SUFFIX,three.com.hk
+
+# Honor of King
+DOMAIN-SUFFIX,hok-dr.intlgame.com
+DOMAIN-SUFFIX,hok.intlgame.com
+DOMAIN-SUFFIX,intlgame.com
+DOMAIN-SUFFIX,sgameglobal.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-KEYWORD,sgameglobal.com
