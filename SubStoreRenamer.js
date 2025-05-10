@@ -1,6 +1,6 @@
-# Sub-Store Script
-# Author: nigelc
-# Update: 10-May-2025
+/** Sub-Store Script
+/** Author: nigelc
+/** Update: 10-May-2025
 
 /**
  * From https://raw.githubusercontent.com/Keywos/rule/main/rename.js
