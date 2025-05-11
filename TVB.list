@@ -1,10 +1,3 @@
-# TVB List
-# Author: nigelc
-# Update: 11-May-2025
-# myTV SUPER Box Check
-# myTV Super
-# TVB
-# 3HK
 DOMAIN-KEYWORD,mytvsuperlimited,mytvsuper,tvb
 DOMAIN,whatismyip.akamai.com
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
@@ -54,7 +47,6 @@ DOMAIN-SUFFIX,tvbusa.com
 DOMAIN-SUFFIX,tvbweekly.com
 DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,youboranqs01.com
-# Honor of King
 DOMAIN,hok-dr.intlgame.com
 DOMAIN,hok.intlgame.com
 DOMAIN-SUFFIX,intlgame.com
