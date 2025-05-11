@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-KEYWORD,mytvsuper
 DOMAIN-KEYWORD,tvb
 IP-CIDR,118.143.17.83/32,no-resolve
+IP-CIDR,216.239.35.12/32,no-resolve
 
 # Honor of King
 DOMAIN,hok-dr.intlgame.com
