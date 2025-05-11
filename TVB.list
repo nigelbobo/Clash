@@ -5,6 +5,7 @@
 # myTV Super
 # TVB
 # 3HK
+DOMAIN-KEYWORD,mytvsuperlimited,mytvsuper,tvb
 DOMAIN,whatismyip.akamai.com
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
 DOMAIN,mytvsuperlimited.sc.omtrdc.net
@@ -17,6 +18,7 @@ DOMAIN,sniper.redsoapp.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,clients1.google.com
 DOMAIN,clients3.google.com
+DOMAIN,content.jwplatform.com
 DOMAIN,tvb.com.au
 DOMAIN,bigbigchannel.com.hk
 DOMAIN,app-measurement.com
@@ -43,7 +45,6 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,bigbigshop.com
-DOMAIN,content.jwplatform.com
 DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,tvbanywhere.com
 DOMAIN-SUFFIX,tvbanywhere.com.sg
@@ -54,9 +55,9 @@ DOMAIN-SUFFIX,tvbweekly.com
 DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,youboranqs01.com
 # Honor of King
-DOMAIN-SUFFIX,hok-dr.intlgame.com
-DOMAIN-SUFFIX,hok.intlgame.com
+DOMAIN,hok-dr.intlgame.com
+DOMAIN,hok.intlgame.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,sgameglobal.com
 DOMAIN-SUFFIX,appsflyersdk.com
-DOMAIN-KEYWORD,sgameglobal.com
+DOMAIN-SUFFIX,sgameglobal.com
