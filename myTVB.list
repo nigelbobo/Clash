@@ -6,26 +6,6 @@
 # TVB
 # 3HK
 # Honor of King
-DOMAIN,whatismyip.akamai.com
-DOMAIN,mytvsuperlimited.hb.omtrdc.net
-DOMAIN,mytvsuperlimited.sc.omtrdc.net
-DOMAIN,tvb-mytvsuper.servicebus.windows.net
-DOMAIN,bcbolt446c5271-a.akamaihd.net
-DOMAIN,edge.api.brightcove.com
-DOMAIN,tvbtracking.azurewebsites.net
-DOMAIN,firestore.googleapis.com
-DOMAIN,sniper.redsoapp.com
-DOMAIN,firebaselogging-pa.googleapis.com
-DOMAIN,clients1.google.com
-DOMAIN,clients3.google.com
-DOMAIN,content.jwplatform.com
-DOMAIN,tvb.com.au
-DOMAIN,bigbigchannel.com.hk
-DOMAIN,app-measurement.com
-DOMAIN,stdtime.gov.hk
-DOMAIN,videos-f.jwpsrv.com
-DOMAIN,pool.ntp.org
-DOMAIN,three,com.hk
 DOMAIN-SUFFIX,three.com.hk
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,mytvsuper.com
