@@ -23,6 +23,7 @@ DOMAIN,app-measurement.com
 DOMAIN,stdtime.gov.hk
 DOMAIN,videos-f.jwpsrv.com
 DOMAIN,pool.ntp.org
+DOMAIN-SUFFIX,getpublica.com
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,newsochub.com
@@ -53,6 +54,7 @@ DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-KEYWORD,mytvsuper
 DOMAIN-KEYWORD,tvb
+IP-CIDR,118.143.17.83/32,no-resolve
 
 # Honor of King
 DOMAIN,hok-dr.intlgame.com
