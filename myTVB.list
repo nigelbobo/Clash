@@ -23,6 +23,7 @@ DOMAIN,app-measurement.com
 DOMAIN,stdtime.gov.hk
 DOMAIN,videos-f.jwpsrv.com
 DOMAIN,pool.ntp.org
+DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,getpublica.com
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,mytvsuper.com
