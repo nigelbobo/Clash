@@ -54,13 +54,8 @@ DOMAIN-SUFFIX,tvbweekly.com
 DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,youboranqs01.com
-USER-AGENT,encoreTVB*
-USER-AGENT,mytv*
-USER-AGENT,mytvsuperlimited*
-
 DOMAIN,three,com.hk
 DOMAIN-SUFFIX,three.com.hk
-
 # Honor of King
 DOMAIN-SUFFIX,hok-dr.intlgame.com
 DOMAIN-SUFFIX,hok.intlgame.com
