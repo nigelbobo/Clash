@@ -2,7 +2,6 @@ DOMAIN,whatismyip.akamai.com
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
 DOMAIN,mytvsuperlimited.sc.omtrdc.net
 DOMAIN,tvb-mytvsuper.servicebus.windows.net
-DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
 DOMAIN,tvbtracking.azurewebsites.net
 DOMAIN,firestore.googleapis.com
@@ -19,6 +18,7 @@ DOMAIN,videos-f.jwpsrv.com
 DOMAIN,pool.ntp.org
 DOMAIN,three,com.hk
 DOMAIN-SUFFIX,three.com.hk
+DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,newsochub.com
