@@ -5,7 +5,7 @@
 # myTV SUPER Box Check
 DOMAIN,whatismyip.akamai.com
 DOMAIN-SUFFIX,whatismyip.akamai.com
-
+DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,newsochub.com
 DOMAIN-SUFFIX,emarsys.net
