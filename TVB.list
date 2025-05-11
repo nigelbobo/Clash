@@ -1,10 +1,31 @@
 # TVB List
 # Author: nigelc
 # Update: 11-May-2025
-
 # myTV SUPER Box Check
+# myTV Super
+# TVB
+# 3HK
+DOMAIN-KEYWORD,mytvsuperlimited,mytvsuper,tvb,
 DOMAIN,whatismyip.akamai.com
-DOMAIN-SUFFIX,whatismyip.akamai.com
+DOMAIN,mytvsuperlimited.hb.omtrdc.net
+DOMAIN,mytvsuperlimited.sc.omtrdc.net
+DOMAIN,tvb-mytvsuper.servicebus.windows.net
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,edge.api.brightcove.com
+DOMAIN,tvbtracking.azurewebsites.net
+DOMAIN,firestore.googleapis.com
+DOMAIN,sniper.redsoapp.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,clients1.google.com
+DOMAIN,clients3.google.com
+DOMAIN,tvb.com.au
+DOMAIN,bigbigchannel.com.hk
+DOMAIN,app-measurement.com
+DOMAIN,stdtime.gov.hk
+DOMAIN,videos-f.jwpsrv.com
+DOMAIN,pool.ntp.org
+DOMAIN,three,com.hk
+DOMAIN-SUFFIX,three.com.hk
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,newsochub.com
@@ -16,35 +37,15 @@ DOMAIN-SUFFIX,playstream.media
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,bidsxplayer.com
 DOMAIN-SUFFIX,aniview.com
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,leadstecgz.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,stdtime.gov.hk
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN,firestore.googleapis.com
-DOMAIN,sniper.redsoapp.com
-DOMAIN,firebaselogging-pa.googleapis.com
-DOMAIN,clients1.google.com
-DOMAIN,clients3.google.com
-DOMAIN-SUFFIX,whatismyip.akamai.com
-DOMAIN,mytvsuperlimited.sc.omtrdc.net
-DOMAIN,tvb-mytvsuper.servicebus.windows.net
-DOMAIN,bcbolt446c5271-a.akamaihd.net
-DOMAIN,edge.api.brightcove.com
-DOMAIN,tvbtracking.azurewebsites.net
-DOMAIN-SUFFIX,bigbigchannel.com.hk
+DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,bigbigshop.com
-DOMAIN-SUFFIX,content.jwplatform.com
+DOMAIN,content.jwplatform.com
 DOMAIN-SUFFIX,encoretvb.com
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
-DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
-DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,tvb.com.au
 DOMAIN-SUFFIX,tvbanywhere.com
 DOMAIN-SUFFIX,tvbanywhere.com.sg
 DOMAIN-SUFFIX,tvbc.com.cn
@@ -52,10 +53,7 @@ DOMAIN-SUFFIX,tvbeventpower.com.hk
 DOMAIN-SUFFIX,tvbusa.com
 DOMAIN-SUFFIX,tvbweekly.com
 DOMAIN-SUFFIX,tvmedia.net.au
-DOMAIN-SUFFIX,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,youboranqs01.com
-DOMAIN,three,com.hk
-DOMAIN-SUFFIX,three.com.hk
 # Honor of King
 DOMAIN-SUFFIX,hok-dr.intlgame.com
 DOMAIN-SUFFIX,hok.intlgame.com
