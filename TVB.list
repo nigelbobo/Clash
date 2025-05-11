@@ -4,10 +4,10 @@
 # MyTV Super/TVB List
 
 # Proxy
-DOMAIN-SUFFIX,cr450.cc
-DOMAIN-SUFFIX,hongxingdl.love
-DOMAIN,prpr.96110.cn.com
-DOMAIN-SUFFIX,96110.cn.com
+# DOMAIN-SUFFIX,cr450.cc
+# DOMAIN-SUFFIX,hongxingdl.love
+# DOMAIN,prpr.96110.cn.com
+# DOMAIN-SUFFIX,96110.cn.com
 
 DOMAIN-SUFFIX,newsochub.com
 DOMAIN-SUFFIX,emarsys.net
