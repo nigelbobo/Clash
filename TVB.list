@@ -1,14 +1,12 @@
 # TVB List
 # Author: nigelc
 # Update: 11-May-2025
-# MyTV Super/TVB List
 
-# Proxy
-# DOMAIN-SUFFIX,cr450.cc
-# DOMAIN-SUFFIX,hongxingdl.love
-# DOMAIN,prpr.96110.cn.com
-# DOMAIN-SUFFIX,96110.cn.com
+# myTV SUPER Box Check
+DOMAIN,whatismyip.akamai.com
+DOMAIN-SUFFIX,whatismyip.akamai.com
 
+DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,newsochub.com
 DOMAIN-SUFFIX,emarsys.net
 DOMAIN-SUFFIX,pubmatic.com
@@ -32,8 +30,9 @@ DOMAIN,sniper.redsoapp.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,clients1.google.com
 DOMAIN,clients3.google.com
-DOMAIN,tvb-mytvsuper.servicebus.windows.net
 DOMAIN-SUFFIX,whatismyip.akamai.com
+DOMAIN,mytvsuperlimited.sc.omtrdc.net
+DOMAIN,tvb-mytvsuper.servicebus.windows.net
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
 DOMAIN,tvbtracking.azurewebsites.net
@@ -57,6 +56,7 @@ DOMAIN-SUFFIX,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,youboranqs01.com
 USER-AGENT,encoreTVB*
 USER-AGENT,mytv*
+USER-AGENT,mytvsuperlimited*
 
 DOMAIN,three,com.hk
 DOMAIN-SUFFIX,three.com.hk
