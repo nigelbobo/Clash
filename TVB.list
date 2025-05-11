@@ -1,7 +1,11 @@
 # TVB List
 # Author: nigelc
-# Update: 26-Apr-2025
+# Update: 11-May-2025
 # MyTV Super/TVB List
+
+# Proxy
+DOMAIN-SUFFIX,get.cr450.cc
+DOMAIN-SUFFIX,hongxingdl.love
 
 DOMAIN-SUFFIX,newsochub.com
 DOMAIN-SUFFIX,emarsys.net
