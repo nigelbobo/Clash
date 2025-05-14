@@ -1,6 +1,6 @@
 # TVB List
 # Author: nigelc
-# Update: 11-May-2025
+# Update: 14-May-2025
 
 # myTV SUPER Box Check
 # myTV Super
@@ -58,6 +58,7 @@ DOMAIN-KEYWORD,mytvsuper
 DOMAIN-KEYWORD,tvb
 IP-CIDR,118.143.17.83/32,no-resolve
 IP-CIDR,216.239.35.12/32,no-resolve
+IP-CIDR,223.255.185.3/32,no-resolve
 
 # Honor of King
 DOMAIN,hok-dr.intlgame.com
