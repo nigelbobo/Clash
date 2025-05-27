@@ -5,7 +5,8 @@
 # myTV SUPER Box Check
 # myTV Super
 # TVB
-DOMAIN,tv.global.mi.com
+
+DOMAIN,hk.tv.global.mi.com
 DOMAIN,csi.gstatic.com
 DOMAIN,whatismyip.akamai.com
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
