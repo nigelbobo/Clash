@@ -1,6 +1,6 @@
 # TVB List
 # Author: nigelc
-# Update: 14-May-2025
+# Update: 27-May-2025
 
 # myTV SUPER Box Check
 # myTV Super
@@ -24,6 +24,8 @@ DOMAIN,app-measurement.com
 DOMAIN,stdtime.gov.hk
 DOMAIN,videos-f.jwpsrv.com
 DOMAIN,pool.ntp.org
+
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,getpublica.com
 DOMAIN-SUFFIX,tvb.com
