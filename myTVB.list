@@ -6,9 +6,6 @@
 # myTV Super
 # TVB
 
-DOMAIN,content-api.mytvsuper.com
-DOMAIN,rapi.mytvsuper.com
-DOMAIN,www.mytvsuper.com
 DOMAIN,hk.tv.global.mi.com
 DOMAIN,csi.gstatic.com
 DOMAIN,whatismyip.akamai.com
