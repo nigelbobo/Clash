@@ -27,8 +27,6 @@ DOMAIN,stdtime.gov.hk
 DOMAIN,videos-f.jwpsrv.com
 DOMAIN,pool.ntp.org
 
-DOMAIN-SUFFIX,www.mytvsuper.com
-DOMAIN-SUFFIX,content-api.mytvsuper.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,google-analytics.com
