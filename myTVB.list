@@ -1,11 +1,11 @@
 # TVB List
 # Author: nigelc
-# Update: 27-May-2025
+# Update: 1-Jun-2025
 
 # myTV SUPER Box Check
 # myTV Super
 # TVB
-
+DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN,hk.tv.global.mi.com
 DOMAIN,csi.gstatic.com
 DOMAIN,whatismyip.akamai.com
@@ -31,7 +31,6 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,getpublica.com
 DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,newsochub.com
 DOMAIN-SUFFIX,servicebus.windows.net
 DOMAIN-SUFFIX,emarsys.net
