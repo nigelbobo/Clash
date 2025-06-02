@@ -70,6 +70,7 @@ IP-CIDR,63.140.48.235/32,no-resolve
 IP-CIDR,118.143.17.83/32,no-resolve
 IP-CIDR,142.250.198.65/32,no-resolve
 IP-CIDR,142.250.196.202/32,no-resolve
+IP-CIDR,142.250.204.42/32,no-resolve
 IP-CIDR,163.70.159.7/32,no-resolve
 
 IP-CIDR,202.126.50.7/32,no-resolve
