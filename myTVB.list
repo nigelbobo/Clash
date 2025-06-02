@@ -60,23 +60,29 @@ DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-KEYWORD,mytvsuper
 DOMAIN-KEYWORD,tvb
-IP-CIDR,118.143.17.83/32,no-resolve
-IP-CIDR,216.239.35.12/32,no-resolve
-IP-CIDR,223.255.185.3/32,no-resolve
 IP-CIDR,34.98.73.26/32,no-resolve
 IP-CIDR,34.111.53.252/32,no-resolve
+IP-CIDR,34.149.178.104/32,no-resolve
+IP-CIDR,51.81.208.201/32,no-resolve
+IP-CIDR,52.123.170.78/32,no-resolve
+IP-CIDR,63.140.48.235/32,no-resolve
+
+IP-CIDR,118.143.17.83/32,no-resolve
+IP-CIDR,142.250.198.65/32,no-resolve
+IP-CIDR,142.250.196.202/32,no-resolve
+IP-CIDR,163.70.159.7/32,no-resolve
 
 IP-CIDR,202.126.50.7/32,no-resolve
 IP-CIDR,202.126.50.11/32,no-resolve
+IP-CIDR,202.126.50.17/32,no-resolve
 IP-CIDR,202.126.50.21/32,no-resolve
 IP-CIDR,202.126.50.43/32,no-resolve
 IP-CIDR,202.126.50.46/32,no-resolve
 IP-CIDR,202.126.55.80/32,no-resolve
 IP-CIDR,202.126.55.84/32,no-resolve
-IP-CIDR,51.81.208.201/32,no-resolve
-IP-CIDR,52.123.170.78/32,no-resolve
-IP-CIDR,63.140.48.235/32,no-resolve
-IP-CIDR,163.70.159.7/32,no-resolve
+IP-CIDR,203.208.40.6/32,no-resolve
+IP-CIDR,216.239.35.12/32,no-resolve
+IP-CIDR,223.255.185.3/32,no-resolve
 
 # Honor of King
 DOMAIN,hok-dr.intlgame.com
