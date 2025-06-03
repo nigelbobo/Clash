@@ -1,12 +1,16 @@
 # TVB List
 # Author: nigelc
-# Update: 2-Jun-2025
+# Update: 3-Jun-2025
 
 # myTV SUPER Box Check
 # myTV Super
 # TVB
+# miTV 4K Stick
 
-DOMAIN,hk.tv.global.mi.com
+DOMAIN-SUFFIX,global.mi.com
+DOMAIN-SUFFIX,mi-img.com
+DOMAIN-SUFFIX,pandora.xiaomi.com
+
 DOMAIN,csi.gstatic.com
 DOMAIN,whatismyip.akamai.com
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
