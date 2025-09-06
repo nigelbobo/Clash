@@ -1,6 +1,6 @@
 # TVB List
 # Author: nigelc
-# Update: 3-Jun-2025
+# Update: 6-Sep-2025
 
 # myTV SUPER Box Check
 # myTV Super
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,global.mi.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,pandora.xiaomi.com
 
+DOMAIN,time.android.com
 DOMAIN,csi.gstatic.com
 DOMAIN,whatismyip.akamai.com
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
