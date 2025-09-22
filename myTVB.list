@@ -1,6 +1,14 @@
 # TVB List
 # Author: nigelc
-# Update: 8-Sep-2025
+# Update: 23-Sep-2025
+
+# myTV SUPER Box List
+# Personal Usage Only
+
+# SOURCE-IP,192.8.8.6/32,no-resolve
+# SOURCE-IP,192.8.8.7/32,no-resolve
+SRC-IP-CIDR,192.8.8.6/32,no-resolve
+SRC-IP-CIDR,192.8.8.7/32,no-resolve
 
 # myTV SUPER Box Check
 # myTV Super
