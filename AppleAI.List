@@ -1,0 +1,14 @@
+# AppleAI List
+# Author: nigelc
+# Update: 26-Oct-2025
+# Personal Usage Only
+
+
+# Apple Intelligence、Siri 和搜尋
+
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,*.smoot.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
