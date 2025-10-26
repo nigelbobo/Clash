@@ -3,7 +3,7 @@
 # Update: 26-Oct-2025
 # Personal Usage Only
 
-DOMAIN-SUFFNIX,smoot.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,guzzoni.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
