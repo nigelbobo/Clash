@@ -1,6 +1,6 @@
 # TVB List
 # Author: nigelc
-# Update: 23-Sep-2025
+# Update: 2-Nov-2025
 
 # myTV SUPER Box List
 # Personal Usage Only
@@ -19,13 +19,13 @@ DOMAIN-SUFFIX,global.mi.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,pandora.xiaomi.com
 
-DOMAIN,time.apple.com
+# DOMAIN,time.apple.com
 DOMAIN,pool.ntp.org
 DOMAIN,ntp.sjtu.edu.cn
 DOMAIN,time.android.com
 DOMAIN,crashlytics.com
 DOMAIN,csi.gstatic.com
-DOMAIN,whatismyip.akamai.com
+# DOMAIN,whatismyip.akamai.com
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
 DOMAIN,mytvsuperlimited.sc.omtrdc.net
 DOMAIN,bcbolt446c5271-a.akamaihd.net
