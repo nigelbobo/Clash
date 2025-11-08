@@ -3,6 +3,7 @@
 # Update: 19-Nov-2025
 
 DOMAIN,ad.doubleclick.net
+DOMAIN,jp1-bid.adsrvr.org
 DOMAIN,googleads4.g.doubleclick.net
 DOMAIN,pubads.g.doubleclick.net
 DOMAIN,securepubads.g.doubleclick.net
