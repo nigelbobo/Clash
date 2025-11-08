@@ -1,12 +1,15 @@
 # TVB AD List
 # Author: nigelc
-# Update: 12-Jun-2025
+# Update: 19-Nov-2025
 
+DOMAIN,ad.doubleclick.net
+DOMAIN,googleads4.g.doubleclick.net
+DOMAIN,pubads.g.doubleclick.net
+DOMAIN,securepubads.g.doubleclick.net
 DOMAIN,googleads.g.doubleclick.net
 DOMAIN,static.googleadsserving.cn
 DOMAIN,enduser.adsrvr.org
 DOMAIN,loada.leadstecgz.com
-DOMAIN,pubads.g.doubleclick.net
 DOMAIN,pagead2.googlesyndication.com
 
 DOMAIN-SUFFIX,adsrvr.org
