@@ -15,6 +15,7 @@ SRC-IP-CIDR,192.8.8.7/32,no-resolve
 # TVB
 # miTV 4K Stick
 
+DOMAIN-SUFFIX,hongwin.com.hk
 DOMAIN-SUFFIX,global.mi.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,pandora.xiaomi.com
