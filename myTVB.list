@@ -1,6 +1,6 @@
 # TVB List
 # Author: nigelc
-# Update: 2-Nov-2025
+# Update: 30-Nov-2025
 
 # myTV SUPER Box List
 # Personal Usage Only
@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,pandora.xiaomi.com
 
 # DOMAIN,time.apple.com
+DOMAIN,cdn.doubleverify.com
 DOMAIN,pool.ntp.org
 DOMAIN,ntp.sjtu.edu.cn
 DOMAIN,time.android.com
