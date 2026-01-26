@@ -1,6 +1,6 @@
 # TVB List
 # Author: nigelc
-# Update: 30-Nov-2025
+# Update: 26-Jan-2026
 
 # myTV SUPER Box List
 # Personal Usage Only
@@ -65,7 +65,7 @@ DOMAIN-SUFFIX,aniview.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,leadstecgz.com
-DOMAIN-SUFFIX,googleapis.com
+# DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,bigbigshop.com
